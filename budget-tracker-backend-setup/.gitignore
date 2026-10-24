@@ -1,0 +1,7 @@
+## Use this just for reference if you want to ignore files in your project.
+
+# depedencies
+/node_modules
+
+# env files
+/.env
